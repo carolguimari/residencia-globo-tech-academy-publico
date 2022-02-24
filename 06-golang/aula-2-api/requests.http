@@ -1,0 +1,12 @@
+POST http://localhost:8080/surl HTTP/1.1
+content-type: application/json
+
+{
+    "url": "https://g1.globo.com/tecnologia/noticia/2022/02/21/americanas-e-submarino-fora-do-ar-o-que-se-sabe-sobre-a-indisponibilidade-das-lojas-online.ghtml"
+}
+
+#######
+
+#Esse get já retorna direto a PAGINA
+GET http://localhost:8080/surl/cmnros  HTTP/1.1
+content-type: application/json
