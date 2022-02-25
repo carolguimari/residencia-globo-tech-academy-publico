@@ -11,3 +11,6 @@ Cada pasta de conteúdo apresenta referências aos respectivos professores assim
 4. [*Introdução a Web*](./04-introducao-web/)
 5. [*Web*](./05-web/)
 6. [*GoLang*](./06-Golang/) 
+7. [*JavaScript*](./07-javascript/) 
+8. [*Framework Backend*](./08-framework-backend/) 
+9. [*Otimizacao Performance*](./09-otimizacao-performance/) 
