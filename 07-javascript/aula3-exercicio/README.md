@@ -1,8 +1,8 @@
-# Exercicio 1 Conjunto - Aula 3
+# Exercicio - Aula 3 - 07/03/2022
 
 - **Professor**: [Zé Cláudio](https://www.linkedin.com/in/jose-claudio/) 
 
-## **Aula 3 - Equipe 8 - 23/02/2022**
+## **Aula 3 - Equipe 8 - 07/03/2022**
 - [Natalia Guimarães](https://github.com/guimaraesnatalia)
 - [Miguel Müller](https://github.com/miguelsmuller)
 - [Tais Araujo](https://github.com/taisjjorge)
