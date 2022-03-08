@@ -1,0 +1,32 @@
+GET http://localhost:3000/players
+
+###
+
+POST http://localhost:3000/players HTTP/1.1
+content-type: application/json
+
+{
+    "first_name": "Natalia",
+    "last_name":"Guimares",
+    "nick_name": "paçoca_killer",
+    "role": "player",
+    "team": 1
+}
+
+###
+
+GET http://localhost:3000/players/3
+
+
+###
+PUT http://localhost:3000/players/3  HTTP/1.1
+content-type: application/json
+
+
+{
+    "first_name": "Tais",
+    "last_name":"Araujo",
+    "nick_name": "Taizinha",
+    "role": "player",
+    "team": 1
+}

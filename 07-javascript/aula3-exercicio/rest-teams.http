@@ -1,0 +1,27 @@
+GET http://localhost:3000/teams
+
+###
+
+POST http://localhost:3000/teams HTTP/1.1
+content-type: application/json
+
+{
+    "name": "Grupo 08",
+    "description": "Grupo Abatedor",
+    "game": "LOL"
+}
+
+###
+
+GET http://localhost:3000/teams/3
+
+
+###
+PUT http://localhost:3000/teams/1  HTTP/1.1
+content-type: application/json
+
+{
+    "name": "Grupo 08",
+    "description":"Grupo Abatedor",
+    "game": "Counter Strike"
+}

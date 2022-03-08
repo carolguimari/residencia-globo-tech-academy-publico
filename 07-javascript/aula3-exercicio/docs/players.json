@@ -1,0 +1,54 @@
+[
+    {
+        "nomedotime": "TIME-1",
+        "game": "lol",
+        "tecnico": {
+            "id": "",
+            "fullname": "",
+            "role": ""
+        },
+        "gerente": {
+            "id": "",
+            "fullname": "",
+            "role": ""
+        },
+        "players": [
+            {
+                "id": "1",
+                "fullname": "Fabio () Krakauer",
+                "role": ""
+            },
+            {
+                "id": "2",
+                "fullname": "",
+                "role": ""
+            }
+        ]
+    },
+    {
+        "nomedotime": "TIME-2",
+        "game": "counter strike",
+        "tecnico": {
+            "id": "",
+            "fullname": "",
+            "role": ""
+        },
+        "gerente": {
+            "id": "",
+            "fullname": "",
+            "role": ""
+        },
+        "players": [
+            {
+                "id": "",
+                "fullname": "",
+                "role": ""
+            },
+            {
+                "id": "",
+                "fullname": "",
+                "role": ""
+            }
+        ]
+    }
+]
