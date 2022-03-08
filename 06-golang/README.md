@@ -4,7 +4,7 @@
 
 ## **Aula 1 - Equipe - 16/02/2022**
 - [Brendha]()
-- [Claudia Andrade]()
+- [Claudia Andrade](https://github.com/maiagripp)
 - [Jonisson Gomes](https://github.com/JonissonGomes)
 - [Miguel Müller](https://github.com/miguelsmuller)
 - [Olga Mahin]()

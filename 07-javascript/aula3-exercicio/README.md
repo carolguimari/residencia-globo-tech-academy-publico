@@ -6,4 +6,4 @@
 - [Natalia Guimarães](https://github.com/guimaraesnatalia)
 - [Miguel Müller](https://github.com/miguelsmuller)
 - [Tais Araujo](https://github.com/taisjjorge)
-- [Bruna Targino](https://github.com/)
+- [Bruna Targino](https://github.com/targ1no)

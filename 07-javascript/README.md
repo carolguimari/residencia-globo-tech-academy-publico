@@ -10,7 +10,7 @@
 
 ## **Aula 2 - Equipe X - 23/02/2022**
 - [Carlos Lopes]()
-- [Heloise]()
+- [Heloise](https://github.com/Heloisemeirelles)
 - [Marcel Pontes](https://github.com/mfnp14)
 - [Miguel Müller](https://github.com/miguelsmuller)
 - [Thais Alonso](https://github.com/buchevitss)
@@ -19,4 +19,4 @@
 - [Natalia Guimarães](https://github.com/guimaraesnatalia)
 - [Miguel Müller](https://github.com/miguelsmuller)
 - [Tais Araujo](https://github.com/taisjjorge)
-- [Bruna Targino](https://github.com/)
+- [Bruna Targino](https://github.com/targ1no)
