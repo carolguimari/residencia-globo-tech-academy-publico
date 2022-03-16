@@ -1,0 +1,33 @@
+POST http://localhost:3000/pasteis HTTP/1.1
+content-type: application/json
+
+{
+    "nome": "Pizza",
+    "preco": 12,
+    "ingredientes": [
+        {
+            "nome": "Queijo",
+            "quantidade": 300
+        },
+        {
+            "nome": "Presunto",
+            "quantidade": 100
+        },
+        {
+            "nome": "Orégano",
+            "quantidade": 20
+        }
+    ]
+}
+
+###
+
+GET http://localhost:3000/pasteis
+
+
+###
+
+GET http://localhost:3000/pasteis?ingrediente=mussarela&sabor=por
+
+###
+DELETE http://localhost:3000/pasteis/2
