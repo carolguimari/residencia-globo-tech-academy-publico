@@ -16,9 +16,10 @@ Cada pasta de conteúdo apresenta referências aos respectivos professores assim
 7. [*JavaScript*](./07-javascript/) 
 8. [*Framework Backend*](./08-framework-backend/) 
 9. [*Otimizacao Performance*](./09-otimizacao-performance/) 
+10. [*Desenvolvimento em Python*](./10-desenvolvimento-python/) 
 
 
 # **Desafios**
 Os desafios são problemas reais aos quais os residentes serão submetidos. 
 
-- [*Links dos Desafisos*](./99-desafios/)
+- [*Links dos Desafisos*](./_desafios/)
