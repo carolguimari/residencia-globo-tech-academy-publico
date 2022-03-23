@@ -2,7 +2,7 @@
 
 # **Trilha Específica - Desenvolvimento Python**
 
-- **Professor**: [Tiago da Silva Chaves]() 
+- **Professor**: [Tiago da Silva Chaves](https://www.linkedin.com/in/txaves/)
 
 ## Ambiente isolado - venv
 `python -m venv [nome]`

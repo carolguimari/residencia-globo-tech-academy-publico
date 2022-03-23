@@ -1,6 +1,6 @@
 # **Web**
 
-- **Professor**: Tiago da Silva Chaves 
+- **Professor**: [Tiago da Silva Chaves](https://www.linkedin.com/in/txaves/)
 
 ## **Aula 1 - Equipe - 10/02, 14/02 e 15/02**
 - [Bruno Pazitto](https://github.com/brunopazitto)
