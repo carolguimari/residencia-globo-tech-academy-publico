@@ -2,7 +2,7 @@
 
 # **Trilha Específica - Framework Backend**
 
-## **Aula 2 - Equipe 6 - 23/03/2022**
+## **Aula 2 - Equipe 6 - 22/03/2022**
 
 - [Igor Almeida](https://github.com/igormotta92)
 - [Marcel Pontes](https://github.com/mfnp14)
