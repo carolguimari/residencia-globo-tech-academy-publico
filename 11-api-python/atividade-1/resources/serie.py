@@ -15,7 +15,7 @@ class Serie(Resource):
             return SerieModel.list_to_dict()
 
         else:
-            return SerieModel.list_to_dict(args=request.args)
+            return SerieModel.list_to_dict(arguments_request=request.args)
 
     def post(self):
         body_arguments = reqparse.RequestParser()

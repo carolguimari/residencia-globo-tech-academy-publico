@@ -35,11 +35,22 @@ class SerieModel:
         cls._series_list.remove(serie)
 
     @classmethod
-    def list_to_dict(cls, args=[]):
-        if len(args) == 0:
+    def list_to_dict(cls, arguments_request=[]):
+        arguments_accepted = ["title", "actor"]
+        if len(arguments_request) == 0:
             return loads(dumps(cls._series_list, default=SerieModel.to_dict))
+
+        elif any(item in arguments_request for item in arguments_accepted):
+            found_serie = dict()
+            for serie in cls._series_list:
+
+                if ("title" in arguments_request) and (arguments_request["title"] in serie.title):
+                    found_serie[serie.id_serie] = serie
+
+            return loads(dumps(found_serie, default=SerieModel.to_dict))
+
         else:
-            return {"args": args}, 404
+            return {"erro": "incorrect parameter"}, 404
 
     def to_dict(self):
         return {
