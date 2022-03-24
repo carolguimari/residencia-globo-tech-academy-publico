@@ -1,0 +1,31 @@
+### GetAll
+GET http://localhost:5000/series
+
+
+### GetFilmByID
+GET http://localhost:5000/series/10
+
+
+### CreateFilm
+POST http://localhost:5000/series HTTP/1.1
+content-type: application/json
+
+{
+    "var": "content",
+    "var": "content"
+}
+
+
+### DeleteFilmByID
+GET http://localhost:5000/series/1
+
+
+### ChangeFilmByID
+GET http://localhost:5000/series/1
+ HTTP/1.1
+content-type: application/json
+
+{
+    "var": "content",
+    "var": "content"
+}
